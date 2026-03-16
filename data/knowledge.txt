@@ -1,0 +1,146 @@
+Company Support Knowledge Base
+
+Orders:
+Orders can be cancelled within 2 hours of placement.
+Customers may cancel an order up to 2 hours after placing it.
+The cancellation window is 2 hours from the order time.
+If more than 2 hours have passed, the order cannot be cancelled.
+You can request order cancellation only during the first 120 minutes.
+
+Order Changes:
+Address changes are allowed only before dispatch.
+You can update delivery details if the order has not shipped yet.
+Once an order is dispatched, shipping address edits are not possible.
+Order item modifications are supported only before packing is completed.
+After packing starts, item changes may no longer be available.
+
+Refunds:
+Refunds are allowed within 7 days if the product is unused and in original packaging.
+Refund requests must be submitted within 7 days of delivery.
+You are eligible for a refund only if the product is unused.
+The item must be in original packaging to qualify for a refund.
+Opened, damaged, or used products are not eligible for full refund.
+Refund approval depends on condition check after return pickup.
+
+Returns:
+Returns are accepted within 7 days when refund conditions are met.
+Returned products should include all accessories and original box.
+If accessories are missing, the refund amount may be reduced.
+Return pickup is usually scheduled within 24 to 48 hours of approval.
+If return pickup fails repeatedly, the return request may be cancelled.
+
+Shipping:
+Delivery usually takes 3 to 5 business days.
+Standard shipping generally arrives in 3 to 5 working days.
+Most orders are delivered within three to five business days.
+Delivery time may vary slightly by location and courier workload.
+Remote areas may require additional transit time.
+Orders are typically dispatched within 24 hours on business days.
+Orders placed on Sundays or holidays are processed on the next business day.
+
+Payments:
+We accept UPI, debit cards, credit cards, and net banking.
+Cash on Delivery is available for selected pin codes only.
+If a payment fails, the order is not confirmed until successful payment.
+For prepaid failures, bank reversal can take 3 to 7 business days.
+Invoices are shared through email after successful order confirmation.
+
+Contact:
+Support email is support@company.com
+You can reach customer support at support@company.com.
+For order help, email us at support@company.com.
+Support working hours are Monday to Saturday, 9:00 AM to 6:00 PM.
+Typical response time is within 24 business hours.
+
+Escalation:
+If your issue is unresolved for more than 48 hours, request escalation.
+Escalation requests should include order ID and previous ticket details.
+Escalated cases are reviewed by a senior support specialist.
+
+General Policy Notes:
+Business days do not include Sundays and public holidays.
+Policy timelines are calculated from order placement or delivery date as specified.
+Final approval for cancellation, return, or refund follows internal verification.
+
+Order Tracking:
+You can track your order using the tracking link sent by SMS or email.
+Tracking details are shared after the order is dispatched.
+Once shipped, shipment status can be checked from the courier tracking page.
+If tracking is not updated for 24 hours, please contact support.
+Order tracking usually becomes active within a few hours after dispatch.
+
+Delivery Delays:
+Delivery can be delayed due to weather, regional restrictions, or courier issues.
+Unexpected logistics issues may extend delivery timelines.
+If your order is delayed, support can help with the latest shipment update.
+Peak sale periods may cause slower than usual deliveries.
+Delay notifications are sent when available from the courier partner.
+
+Exchange Policy:
+Exchanges are available for size or defective item issues within 7 days.
+You can request an exchange only if the product is unused and in original condition.
+Exchange requests must be raised within seven days from delivery date.
+Items returned for exchange should include tags, accessories, and packaging.
+Exchange is subject to stock availability of the replacement item.
+If replacement stock is unavailable, a refund may be offered.
+
+Damaged or Wrong Item:
+If you receive a damaged product, report it within 48 hours of delivery.
+Wrong item complaints should be submitted within 48 hours with order details.
+Please share clear photos of the package and item for faster verification.
+Damaged or incorrect item cases are prioritized after evidence review.
+After validation, we arrange replacement or refund as per policy.
+
+Cancellation Refund Timeline:
+If an order is cancelled before dispatch, the refund is initiated automatically.
+Prepaid cancellation refunds are usually processed in 3 to 7 business days.
+Refund completion time depends on bank or payment partner processing.
+For wallet payments, refunds may appear faster than card refunds.
+If refund is not received after 7 business days, contact support with transaction ID.
+
+Cash on Delivery Notes:
+COD availability depends on pin code, product type, and order value.
+Cash on Delivery may not be available in all serviceable areas.
+COD orders can be confirmed through OTP or verification call.
+Repeated failed COD deliveries may restrict future COD eligibility.
+For faster dispatch, prepaid orders are recommended where possible.
+
+Coupons and Discounts:
+Only one coupon can be applied per order unless stated otherwise.
+Discount coupons are valid for limited time and may have minimum order value.
+Coupon benefits may not apply on excluded brands or categories.
+Expired promo codes cannot be reactivated manually.
+If coupon deduction is missing, verify terms and eligibility before checkout.
+
+Invoice and GST:
+Invoices are generated after order confirmation and sent by email.
+You can request a GST invoice at the time of placing the order.
+GST details should be entered correctly before payment completion.
+Invoice corrections may be allowed only within a limited time window.
+Billing name and address should match official records for GST claims.
+
+Account and Address:
+Users can manage saved addresses from their account settings.
+Primary contact number should be active for delivery updates.
+Email and phone number must be valid for order communication.
+Address landmark details help reduce delivery delays.
+Incomplete addresses can cause shipment exceptions.
+
+Support Ticketing:
+Each complaint is assigned a ticket ID for tracking.
+Please mention your ticket ID in follow-up emails for faster assistance.
+Multiple tickets for the same issue may delay resolution.
+One active ticket per issue is recommended for smooth handling.
+Resolved tickets can be reopened within a limited support window.
+
+FAQ Style Variants:
+How long does delivery take?
+When will my order arrive?
+Can I cancel after placing the order?
+What is your refund policy?
+How do I get support?
+Where can I track my shipment?
+Can I exchange a product?
+What if I receive a damaged item?
+How long does a refund take?
+Why is COD not available for my location?
